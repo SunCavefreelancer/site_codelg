@@ -3566,7 +3566,7 @@ body {
   .header .menu .menu__item--parent .menu__link {
     display: block;
     text-align: center;
-    margin-top: 12.5rem
+    margin-top: .625rem
   }
   .header .menu .menu__item--parent .menu__link::after {
     display: none
